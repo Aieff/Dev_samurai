@@ -1,5 +1,5 @@
 - Sobre o projeto
-O que será abordado
+- O que será abordado
 
 - Design
 - HTML semântico
